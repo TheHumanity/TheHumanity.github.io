@@ -1,9 +1,8 @@
-blackcoin.org
-============
+The Humanity
+=========================
+Official Humanity Website
 
-Official Blackcoin website
-
-Changes here reflect on https://blackcoin.org/ immediately.
+Changes here reflect on [Humanity](https://thehumanity.github.io/) immediately.
 
 Updates
 ============
